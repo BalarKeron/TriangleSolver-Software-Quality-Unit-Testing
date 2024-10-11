@@ -62,7 +62,7 @@ namespace TriangleUnitTesting
         [TestMethod]
         public void Test_ScaleneTriangle1()
         {
-            // Arrange
+            // Arrange.
             int side1 = 3, side2 = 4, side3 = 5;
 
             // Act
@@ -75,7 +75,7 @@ namespace TriangleUnitTesting
         [TestMethod]
         public void Test_ScaleneTriangle2()
         {
-            // Arrange
+            // Arrange.
             int side1 = 6, side2 = 8, side3 = 10;
 
             // Act
@@ -88,7 +88,7 @@ namespace TriangleUnitTesting
         [TestMethod]
         public void Test_ScaleneTriangle3()
         {
-            // Arrange
+            // Arrange.
             int side1 = 7, side2 = 9, side3 = 11;
 
             // Act
@@ -101,7 +101,7 @@ namespace TriangleUnitTesting
         [TestMethod]
         public void Test_ScaleneTriangle4()
         {
-            // Arrange
+            // Arrange.
             int side1 = 2, side2 = 3, side3 = 4;
 
             // Act
@@ -114,7 +114,7 @@ namespace TriangleUnitTesting
         [TestMethod]
         public void Test_ScaleneTriangle5()
         {
-            // Arrange
+            // Arrange.
             int side1 = 5, side2 = 12, side3 = 13;
 
             // Act
