@@ -10,7 +10,7 @@ namespace TriangleUnitTesting
         [TestMethod]
         public void Test_EquilateralTriangle()
         {
-            // Arrange
+            // Arrange.
             int side1 = 8, side2 = 8, side3 = 8;
 
             // Act
