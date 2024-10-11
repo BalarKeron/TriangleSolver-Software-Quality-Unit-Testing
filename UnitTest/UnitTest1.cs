@@ -23,7 +23,7 @@ namespace TriangleUnitTesting
         [TestMethod]
         public void Test_IsoscelesTriangle1()
         {
-            // Arrange
+            // Arrange.
             int side1 = 5, side2 = 5, side3 = 7;
 
             // Act
@@ -36,7 +36,7 @@ namespace TriangleUnitTesting
         [TestMethod]
         public void Test_IsoscelesTriangle2()
         {
-            // Arrange
+            // Arrange.
             int side1 = 7, side2 = 9, side3 = 9;
 
             // Act
@@ -49,7 +49,7 @@ namespace TriangleUnitTesting
         [TestMethod]
         public void Test_IsoscelesTriangle3()
         {
-            // Arrange
+            // Arrange.
             int side1 = 6, side2 = 6, side3 = 4;
 
             // Act
